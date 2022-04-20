@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261915564190",
+    "project_id": "fnmaauthenticator",
+    "storage_bucket": "fnmaauthenticator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261915564190:android:4f88aff2174c163099c38f",
+        "android_client_info": {
+          "package_name": "com.fanniemae.pingonetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261915564190-8iso0vvtlhca61s05ut7a3nfl91nogmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7GMNO0w1oA0Byc9Fd5oswQPqFAObSUag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261915564190-8iso0vvtlhca61s05ut7a3nfl91nogmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
