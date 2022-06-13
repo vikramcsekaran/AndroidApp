@@ -83,10 +83,10 @@
                     <ImageView
                         android:id="@+id/logo_image"
                         android:layout_below="@+id/placeholder_view"
-                        android:layout_width="140dp"
+                        android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_centerHorizontal="true"
-                        android:src="@mipmap/logo_horizontal" />
+                        android:src="@drawable/ic_fnma_horizontal_logo" />
 
                     <RelativeLayout
                         android:layout_width="match_parent"

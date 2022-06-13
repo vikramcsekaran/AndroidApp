@@ -289,7 +289,7 @@ public class QrReaderFragment extends Fragment {
     /*
      * Handles the requesting of the camera permission.
      */
-    private void requestCameraPermission() {
+    private void    requestCameraPermission() {
 
         final String[] permissions = new String[]{Manifest.permission.CAMERA};
         /*

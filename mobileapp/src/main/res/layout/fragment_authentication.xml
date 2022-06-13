@@ -22,12 +22,12 @@
                     android:layout_height="20dp" />
 
                 <ImageView
-                    android:layout_width="140dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_below="@+id/placeholder_view"
                     android:layout_centerInParent="true"
                     android:contentDescription="@string/cd_bar_logo_image"
-                    android:src="@mipmap/logo_horizontal" />
+                    android:src="@drawable/ic_fnma_horizontal_logo" />
             </RelativeLayout>
         </androidx.appcompat.widget.Toolbar>
         <TextView

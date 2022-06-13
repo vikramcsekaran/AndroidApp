@@ -24,7 +24,7 @@
     </style>
     <style name="roundable_button" parent="button">
         <item name="android:background">@drawable/roundable_button_blue</item>
-        <item name="android:textColor">@color/blueLight</item>
+        <item name="android:textColor">@color/blue</item>
     </style>
     <style name="roundable_button_approve" parent="button">
         <item name="android:background">@drawable/roundable_button_green</item>
@@ -36,9 +36,9 @@
     </style>
 
     <style name="textAppearanceErrorStyle" parent="@android:style/TextAppearance">
-        <item name="android:background">@color/biometric_error_color</item>
+        <item name="android:background">@color/redLight</item>
         <item name="android:padding">@dimen/error_area_padding</item>
-        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textColor">@color/colorWhite</item>
         <item name="android:textSize">@dimen/error_area_text_size</item>
         <item name="android:gravity">center</item>
     </style>
@@ -46,7 +46,7 @@
     <style name="textAppearanceNotificationStyle" parent="@android:style/TextAppearance">
         <item name="android:background">@color/slider_error_notification_background_color</item>
         <item name="android:padding">@dimen/error_area_padding</item>
-        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textColor">@color/colorWhite</item>
         <item name="android:textSize">@dimen/error_area_text_size</item>
         <item name="android:gravity">center</item>
     </style>
